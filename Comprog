@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+// function declaration
+
+void, divide, (int divnd, int divsr, int* quot, int* rem)
+
+int main (void)
+{
+//local declarations
+
+int a;
+int b;
+int quote;
+int rem;
+
+// statements
+divide (a,b &quot, &rem);
+
+return 0;
+} // main
